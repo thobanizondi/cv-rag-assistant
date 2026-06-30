@@ -138,6 +138,12 @@ Johannesburg, South Africa
 - 💼 GitHub: [github.com/thobanizondi](https://github.com/thobanizondi)
 - 🔗 LinkedIn: [linkedin.com/in/thobani-zondi](https://linkedin.com/in/thobani-zondi)
 
+## Live Demo
+
+**[Try the live app →](https://cv-rag-assistant-fk9jst3npbrrslrsfhg8nt.streamlit.app/)**
+
+Ask the AI assistant anything about my experience, skills, certifications, and projects — powered by a real RAG pipeline running in production.
+
 ---
 
 ## Screenshots
