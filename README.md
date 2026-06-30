@@ -143,10 +143,10 @@ Johannesburg, South Africa
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/screen-cv-assistant-1.png)
+![Dashboard](screenshots/screen-cv-assistant-2.png)
 
 ### Chat Interface
-![Chat](screenshots/screen-cv-assistant-1.png)
+![Chat](screenshots/screen-cv-assistant.png)
 
 ### Sample Answer
 ![Answer](screenshots/screen-cv-answers.png)
