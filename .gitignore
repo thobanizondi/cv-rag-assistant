@@ -2,5 +2,5 @@
 venv/
 __pycache__/
 *.pyc
-cv_data/
 .streamlit/
+get-pip.py
