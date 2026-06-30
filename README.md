@@ -140,9 +140,9 @@ Johannesburg, South Africa
 
 ## Live Demo
 
-**[Try the live app →](https://cv-rag-assistant-fk9jst3npbrrslrsfhg8nt.streamlit.app/)**
+**[Click live app →](https://cv-rag-assistant-fk9jst3npbrrslrsfhg8nt.streamlit.app/)**
 
-Ask the AI assistant anything about my experience, skills, certifications, and projects — powered by a real RAG pipeline running in production.
+Ask the AI assistant anything about my experience, skills, certifications, and projects, powered by a real RAG pipeline running in production.
 
 ---
 
